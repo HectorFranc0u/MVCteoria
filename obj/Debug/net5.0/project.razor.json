@@ -15662,6 +15662,11 @@
       "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Shared\\_Recipes.cshtml",
+      "TargetPath": "Views\\Shared\\_Recipes.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

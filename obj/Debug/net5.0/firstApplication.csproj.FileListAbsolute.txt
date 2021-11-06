@@ -23,8 +23,6 @@ C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\scopedcss\bundle\fi
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\firstApplication.TagHelpers.input.cache
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\firstApplication.TagHelpers.output.cache
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\firstApplication.RazorCoreGenerate.cache
-C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -38,5 +36,8 @@ C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\ref\firstApplicatio
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\firstApplication.pdb
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\firstApplication.genruntimeconfig.cache
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\firstApplication.csproj.CopyComplete
-C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Views\Home\Curriculum.cshtml.g.cs
+C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Views\Shared\_Recipes.cshtml.g.cs
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Views\Personal\Index.cshtml.g.cs
+C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Views\Home\Curriculum.cshtml.g.cs
+C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs

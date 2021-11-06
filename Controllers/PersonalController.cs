@@ -17,6 +17,9 @@ namespace firstApplication.Controllers
             personal.name = "Hector";
             personal.lastname = "Franco";
             personal.age = 18;
+            personal.direccion = "hector.franc0@hotmail.com";
+            personal.codigoEst = "SMIS092321";
+            personal.telefono = 72090294;
             return View(personal);
         }
     }
