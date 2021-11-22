@@ -15619,6 +15619,16 @@
   "RootNamespace": "firstApplication",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Shared\\_Recetas.cshtml",
+      "TargetPath": "Views\\Shared\\_Recetas.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Recipes\\Details.cshtml",
+      "TargetPath": "Views\\Recipes\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15649,6 +15659,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Recipes\\Create.cshtml",
+      "TargetPath": "Views\\Recipes\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -15659,13 +15674,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Recipes\\Edit.cshtml",
+      "TargetPath": "Views\\Recipes\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Recipes\\Index.cshtml",
+      "TargetPath": "Views\\Recipes\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Shared\\_Recipes.cshtml",
-      "TargetPath": "Views\\Shared\\_Recipes.cshtml",
+      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Recipes\\Delete.cshtml",
+      "TargetPath": "Views\\Recipes\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
