@@ -28,6 +28,9 @@ namespace firstApplication
 
             services.AddDbContext<RecipesContext>(options =>
                     options.UseMySQL(Configuration.GetConnectionString("RecipesContext")));
+
+            services.AddDbContext<LibraryContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("LibraryContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
