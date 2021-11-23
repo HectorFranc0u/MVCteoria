@@ -10,6 +10,7 @@ using firstApplication.Models;
         public RecipesContext (DbContextOptions<RecipesContext> options)
             : base(options)
         {
+            
         }
 
         public DbSet<firstApplication.Models.Recipes> Recipes { get; set; }
