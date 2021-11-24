@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 namespace firstApplication
 {
@@ -28,6 +29,23 @@ namespace firstApplication
 
             services.AddDbContext<RecipesContext>(options =>
                     options.UseMySQL(Configuration.GetConnectionString("RecipesContext")));
+
+            services.AddIdentity<IdentityUser, IdentityRole>()
+                    .AddDefaultUI()
+                    .AddEntityFrameworkStores<RecipesContext>()
+                    .AddDefaultTokenProviders();
+            services.ConfigureApplicationCookie(options =>{
+                options.LoginPath="/Login";
+                options.AccessDeniedPath="/AccesDenied";
+                options.SlidingExpiration=true;
+            });
+
+            services.AddRazorPages(options=>{
+                    options.Conventions.AddAreaPageRoute("Identity", "/Account/Login", "/Login");
+                    options.Conventions.AddAreaPageRoute("Identity", "/Account/Register", "/Register");
+                    options.Conventions.AddAreaPageRoute("Identity", "/Account/AccesDenied", "/AccesDenied");
+            });
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -49,12 +67,14 @@ namespace firstApplication
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapRazorPages();
             });
         }
     }

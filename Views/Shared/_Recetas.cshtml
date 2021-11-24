@@ -16,7 +16,13 @@
         <link href="~/css/styles.css" rel="stylesheet" />
     </head>
     <body id="page-top">
+
+    @using Microsoft.AspNetCore.Identity
+    @inject SignInManager<IdentityUser> SignInManager
+        
         @await RenderSectionAsync("Scripts", required: false)
+        @if(SignInManager.IsSignedIn(User))
+        {
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
                 <span class="d-block d-lg-none">Hector Franco</span>
@@ -32,6 +38,7 @@
                 </ul>
             </div>
         </nav>
+        }
         <!-- Page Content-->
         <div class="container-fluid p-0">
             <!-- About-->
@@ -40,15 +47,6 @@
                     @RenderBody()
                 </div>
             </section>
-            <hr class="m-0" />
-            <!-- Anadir receta-->
-            <section class="resume-section" id="recetas">
-            </section>
-            <hr class="m-0" />
-            <!-- Listado de recetas-->
-            <section class="resume-section" id="tabla">
-            </section>
-            <hr class="m-0" />
         </div>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>

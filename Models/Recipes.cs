@@ -1,11 +1,13 @@
 using System.ComponentModel.DataAnnotations;
 using System;
 using System.Diagnostics;
+using Microsoft.AspNetCore.Authorization;
 
 namespace firstApplication.Models
-{
+{   [Authorize]
     public class Recipes
     {
+        
         //definicion de las propiedades
         [Key]
         
