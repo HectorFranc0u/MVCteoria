@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\firstApplication.csproj",
+  "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\firstApplication.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,78 +15619,103 @@
   "RootNamespace": "firstApplication",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Shared\\_Recetas.cshtml",
-      "TargetPath": "Views\\Shared\\_Recetas.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Recipes\\Details.cshtml",
-      "TargetPath": "Views\\Recipes\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Home\\Curriculum.cshtml",
-      "TargetPath": "Views\\Home\\Curriculum.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Recipes\\Create.cshtml",
-      "TargetPath": "Views\\Recipes\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Personal\\Index.cshtml",
-      "TargetPath": "Views\\Personal\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Recipes\\Edit.cshtml",
-      "TargetPath": "Views\\Recipes\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Recipes\\Index.cshtml",
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Recipes\\Index.cshtml",
       "TargetPath": "Views\\Recipes\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Recipes\\Delete.cshtml",
+      "TargetPath": "Views\\Recipes\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Shared\\_Recetas.cshtml",
+      "TargetPath": "Views\\Shared\\_Recetas.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Recipes\\Details.cshtml",
+      "TargetPath": "Views\\Recipes\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Professor\\Create.cshtml",
+      "TargetPath": "Views\\Professor\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Home\\Curriculum.cshtml",
+      "TargetPath": "Views\\Home\\Curriculum.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Recipes\\Create.cshtml",
+      "TargetPath": "Views\\Recipes\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Recipes\\Edit.cshtml",
+      "TargetPath": "Views\\Recipes\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Professor\\Index.cshtml",
+      "TargetPath": "Views\\Professor\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\hecto\\Documents\\k\\firstApplication\\Views\\Recipes\\Delete.cshtml",
-      "TargetPath": "Views\\Recipes\\Delete.cshtml",
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Professor\\Delete.cshtml",
+      "TargetPath": "Views\\Professor\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Professor\\Details.cshtml",
+      "TargetPath": "Views\\Professor\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Personal\\Index.cshtml",
+      "TargetPath": "Views\\Personal\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\SilenSent21\\Desktop\\Universidad\\Ciclo-II\\Programacion Computacional\\ActividadSemana17\\MVCteoria\\Views\\Professor\\Edit.cshtml",
+      "TargetPath": "Views\\Professor\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
