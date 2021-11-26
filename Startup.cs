@@ -45,6 +45,9 @@ namespace firstApplication
                     options.Conventions.AddAreaPageRoute("Identity", "/Account/Register", "/Register");
                     options.Conventions.AddAreaPageRoute("Identity", "/Account/AccesDenied", "/AccesDenied");
             });
+
+            services.AddDbContext<PartesAutosContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("PartesAutosContext")));
             
         }
 

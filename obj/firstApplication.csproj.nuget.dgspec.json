@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hecto\\Documents\\k\\firstApplication\\firstApplication.csproj": {}
+    "C:\\Users\\PC\\Desktop\\Nueva carpeta\\MVCteoria\\firstApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hecto\\Documents\\k\\firstApplication\\firstApplication.csproj": {
+    "C:\\Users\\PC\\Desktop\\Nueva carpeta\\MVCteoria\\firstApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hecto\\Documents\\k\\firstApplication\\firstApplication.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\MVCteoria\\firstApplication.csproj",
         "projectName": "firstApplication",
-        "projectPath": "C:\\Users\\hecto\\Documents\\k\\firstApplication\\firstApplication.csproj",
-        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hecto\\Documents\\k\\firstApplication\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\MVCteoria\\firstApplication.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\MVCteoria\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -93,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

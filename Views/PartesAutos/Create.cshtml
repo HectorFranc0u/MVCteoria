@@ -1,0 +1,43 @@
+@model firstApplication.Models.PartesAutos
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>PartesAutos</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ParteNombre" class="control-label"></label>
+                <input asp-for="ParteNombre" class="form-control" />
+                <span asp-validation-for="ParteNombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParteModelo" class="control-label"></label>
+                <input asp-for="ParteModelo" class="form-control" />
+                <span asp-validation-for="ParteModelo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PartePrecio" class="control-label"></label>
+                <input asp-for="PartePrecio" class="form-control" />
+                <span asp-validation-for="PartePrecio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
