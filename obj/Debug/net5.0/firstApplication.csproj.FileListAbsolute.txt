@@ -179,3 +179,15 @@ C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Areas\Identit
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\hecto\Documents\k\firstApplication\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Mauricio\Documents\New folder\MVCteoria\obj\Debug\net5.0\firstApplication.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\New folder\MVCteoria\obj\Debug\net5.0\firstApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Documents\New folder\MVCteoria\obj\Debug\net5.0\firstApplication.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Documents\New folder\MVCteoria\obj\Debug\net5.0\firstApplication.AssemblyInfo.cs
+C:\Users\Mauricio\Documents\New folder\MVCteoria\obj\Debug\net5.0\firstApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\New folder\MVCteoria\obj\Debug\net5.0\firstApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mauricio\Documents\New folder\MVCteoria\obj\Debug\net5.0\firstApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mauricio\Documents\New folder\MVCteoria\obj\Debug\net5.0\firstApplication.RazorAssemblyInfo.cache
+C:\Users\Mauricio\Documents\New folder\MVCteoria\obj\Debug\net5.0\firstApplication.RazorAssemblyInfo.cs
+C:\Users\Mauricio\Documents\New folder\MVCteoria\obj\Debug\net5.0\firstApplication.dll
+C:\Users\Mauricio\Documents\New folder\MVCteoria\obj\Debug\net5.0\ref\firstApplication.dll
+C:\Users\Mauricio\Documents\New folder\MVCteoria\obj\Debug\net5.0\firstApplication.pdb
